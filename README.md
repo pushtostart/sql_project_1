@@ -42,13 +42,3 @@ The data was sourced from a dataset containing 2022 fruit prices across differen
 
 ### Conclusion
 The analysis reveals clear patterns in fruit pricing based on seasonality, region, and type of fruit. Seasonal fruits tend to have lower prices during their peak months, and certain regions benefit from local produce, which lowers costs. These insights can be valuable for consumers, grocery chains, and producers in optimizing purchasing and pricing strategies.
-
-### Future Work
-Further analysis could include:
-- Comparing 2022 prices to previous years to assess price inflation.
-- Analyzing the impact of weather patterns or supply chain disruptions on fruit prices.
-- Exploring consumer behavior data to see if demand aligns with pricing fluctuations.
-
----
-
-This README summary provides a structured overview of the findings, making it easier for others to understand the analysis and its implications. Let me know if you'd like to add any specific insights or other sections!
