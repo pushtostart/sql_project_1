@@ -1,0 +1,6 @@
+CREATE TABLE fruit_prices (
+    fruit_name VARCHAR(50),
+    date DATE,
+    price DECIMAL(5,2),
+    location VARCHAR(50)
+);
